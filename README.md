@@ -1,13 +1,13 @@
 <h1 align="center">Vedant</h1>
 <p align="center">
-Cybersecurity · Programming · AI
+Programming · Cybersecurity · AI
 </p>
 
 ---
 
 ### About
 
-Tech enthusiast curious about cybersecurity, programming, and AI.  
+Tech enthusiast curious about programming, cybersecurity, and AI.  
 BTech CSE @ IIT Gandhinagar.
 
 Focused on building practical /projects, understanding systems, and exploring secure software design.
