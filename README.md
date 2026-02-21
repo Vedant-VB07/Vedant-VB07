@@ -1,69 +1,58 @@
 <h1 align="center">Vedant</h1>
 <p align="center">
-Cybersecurity · Systems Programming · Rust
+Cybersecurity · Programming · Systems
 </p>
 
 ---
 
 ### About
 
-Security-focused engineer building high-performance tooling and studying offensive security techniques in authorized environments.
+Tech enthusiast curious about cybersecurity, programming, and AI.  
+BTech CSE @ IIT Gandhinagar.
 
-- BTech CSE  
-- Rust CLI development  
-- CTF player  
-- Linux power user  
+Focused on building practical tools, understanding systems deeply, and exploring secure software design.
 
 ---
 
 ### Focus
 
-- Credential modeling & password policy auditing
-- Systems-level Rust tooling
-- Binary analysis & exploit research
-- Automation for security workflows
+- Programming & system-level thinking  
+- Cybersecurity & credential research  
+- Tool building & automation  
 
 ---
 
 ### Selected Projects
 
-**KYT – Persona-Based Password Engine (Rust)**  
-High-performance CLI tool for controlled security simulations.
+**KYT — Password Wordlist Generator**  
+High-performance password modeling tool focused on structured wordlist generation.
 
-**CTF Toolkit**  
-Custom automation scripts for challenge solving and environment analysis.
+**URLX — URL Shortener**  
+Lightweight URL shortening service with backend logic and routing management.
 
-**Linux Privilege Auditor**  
-Lightweight inspection utility for system security posture review.
+**passOP — Password Manager**  
+Secure credential storage application with encryption-focused architecture.
+
+**todo — Task Management App**  
+Minimal productivity tool with clean UI and state handling.
 
 ---
 
 ### Stack
 
-Rust · C++ · Python · Linux · Git · Bash
-
----
-
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,nodejs,react,linux,git,bash" />
 </p>
 
 ---
 
 ### Current Direction
 
-- Advanced Rust
-- Low-level memory research
-- Real-world security assessments
+Exploring new innovations, technologies, and secure program design.  
+Continuously learning and refining problem-solving skills.
 
 ---
 
 <p align="center">
-  <i>Break. Understand. Secure.</i>
+<i>Build. Break. Understand. Improve.</i>
 </p>
