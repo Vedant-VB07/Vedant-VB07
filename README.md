@@ -1,6 +1,6 @@
 <h1 align="center">Vedant</h1>
 <p align="center">
-Cybersecurity · Programming · Systems
+Cybersecurity · Programming · AI
 </p>
 
 ---
@@ -10,14 +10,14 @@ Cybersecurity · Programming · Systems
 Tech enthusiast curious about cybersecurity, programming, and AI.  
 BTech CSE @ IIT Gandhinagar.
 
-Focused on building practical tools, understanding systems deeply, and exploring secure software design.
+Focused on building practical /projects, understanding systems, and exploring secure software design.
 
 ---
 
 ### Focus
 
 - Programming & system-level thinking  
-- Cybersecurity & credential research  
+- Cybersecurity   
 - Tool building & automation  
 
 ---
